@@ -25,9 +25,10 @@ auto-legal-agent/
 │ └── Affectation_Resultats.xlsx # Jeu de données de test
 ├── outputs/
 │ └── (fichiers Word générés)
-├── .env # Clé API Gemini (facultatif)
+├── .env 
 ├── requirements.txt
 └── README.md
+
 
 
 ---
